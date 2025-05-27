@@ -187,6 +187,128 @@ grow fastest — from Xcode's `DerivedData` to browser, design and chat app cach
 
 ---
 
+## Pricing
+
+**Start free. _Go Pro when you're ready._**
+
+| | **Free** | **Pro Yearly** &nbsp;·&nbsp; `Save 33%` | **Pro Monthly** |
+| :-- | :-- | :-- | :-- |
+| **Price** | **$0** <br> forever | **$39.99** <br> per year | **$4.99** <br> per month |
+| | Everything you need to monitor and manage your Mac. | Unlock every monitor, every control. | All Pro features, billed month to month. |
+| **Includes** | ✓ Health dashboard &amp; Smart Care <br> ✓ Live CPU, memory &amp; network metrics <br> ✓ Temperature &amp; battery health <br> ✓ Disk usage insight <br> ✓ Process insight | ✓ Everything in Free <br> ✓ Fan control with presets <br> ✓ Menu-bar live monitor <br> ✓ Advanced performance tools <br> ✓ Temperature &amp; fan alerts <br> ✓ Priority support | ✓ Everything in Pro <br> ✓ Cancel anytime <br> ✓ Billed monthly |
+| | [**Download free**](https://macooler.com/#download) | [**Go Pro yearly**](https://macooler.com/#pricing) | [**Go Pro monthly**](https://macooler.com/#pricing) |
+
+---
+
+## Get Macooler
+
+**Cool, fast and in control. _One click away._**
+
+Free to download for macOS 13+. Universal build for Apple Silicon (M-series) and
+Intel.
+
+```
+Requirements   macOS 13 Ventura or later
+Architecture   Universal — Apple Silicon (M1–M4) and Intel
+Signing        Developer ID signed and notarized by Apple
+Install        Open the .dmg, drag Macooler to Applications
+```
+
+<a href="https://macooler.com/#download"><img alt="Download for macOS" src="https://img.shields.io/badge/Download%20for%20macOS-f95d02?style=for-the-badge&logo=apple&logoColor=white"></a>
+
+---
+
+## FAQ
+
+<details>
+<summary><strong>Can Macooler control my Mac's fan speed?</strong></summary>
+<br>
+
+Yes. Macooler gives you manual control of your Mac's fans so you can spin them up
+to cool it down under heavy load, then hand control back to macOS automatic when
+you're done.
+
+</details>
+
+<details>
+<summary><strong>Does fan control work on Apple Silicon (M1, M2, M3, M4)?</strong></summary>
+<br>
+
+Yes. Macooler is built for modern Apple Silicon and gives you real fan control on
+M1, M2, M3 and M4 Macs — including the newer chips where many older fan-control
+tools no longer work — as well as Intel Macs, on macOS 13 and later. Note: the
+MacBook Air is fanless, so fan control applies to Macs with a fan (like the
+MacBook Pro); on the Air, Macooler still monitors temperature.
+
+</details>
+
+<details>
+<summary><strong>How do I cool down a MacBook that gets hot?</strong></summary>
+<br>
+
+Macooler shows your CPU and GPU temperature live and lets you increase fan speed
+to bring it down. It also highlights the apps and processes generating the most
+load so you can quit or throttle them.
+
+</details>
+
+<details>
+<summary><strong>How do I check my Mac's CPU and GPU temperature?</strong></summary>
+<br>
+
+Macooler reads your Mac's sensors and shows live CPU, GPU and battery temperature
+in the app and right in the menu bar, with a heads-up before your Mac starts to
+run hot.
+
+</details>
+
+<details>
+<summary><strong>Is it safe to control my Mac's fans?</strong></summary>
+<br>
+
+Yes. Fan control adjusts speed within the range your Mac's hardware allows and
+never overrides the built-in limits that protect it. When you quit Macooler, your
+fans return to macOS automatic control.
+
+</details>
+
+<details>
+<summary><strong>Is Macooler free?</strong></summary>
+<br>
+
+Macooler is free to download and includes live monitoring, temperature tracking
+and disk insight. Macooler Pro unlocks advanced features as a monthly ($4.99) or
+yearly ($39.99) subscription.
+
+</details>
+
+<details>
+<summary><strong>How do I see what's taking up space on my Mac?</strong></summary>
+<br>
+
+Macooler's Disk Insight visualizes your storage and shows the largest folders and
+files with their real on-disk sizes, so you can find and free up space.
+
+</details>
+
+<br>
+
+> **Note** — Fan control applies to Macs with a fan: MacBook Pro, iMac, Mac mini
+> and similar. The MacBook Air is fanless; on the Air, Macooler still monitors
+> temperature, there's just no fan to control.
+
+---
+
+## Guides
+
+- [How to check your MacBook temperature](https://macooler.com/guides/how-to-check-macbook-temperature.html) — ways to read CPU/GPU temperature; normal vs. too-hot ranges
+- [Mac fan control](https://macooler.com/guides/mac-fan-control.html) — how to control your Mac's fan speed safely on Apple Silicon and Intel
+- [MacBook overheating? 9 ways to fix it](https://macooler.com/guides/macbook-overheating-fix.html) — step-by-step fixes for a Mac that runs hot and slow
+- [The best SMC Fan Control alternative](https://macooler.com/guides/smc-fan-control-alternative.html) — a modern, Apple-Silicon-native replacement for smcFanControl
+- [All guides](https://macooler.com/guides/)
+
+---
+
 <div align="center">
 
 <img src="assets/icon.svg" alt="" width="44">
