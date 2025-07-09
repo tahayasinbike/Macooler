@@ -15,6 +15,7 @@ native for Apple Silicon and Intel.</p>
   <img alt="Native Swift app" src="https://img.shields.io/badge/Native-Swift-fb7910?style=flat-square&logo=swift&logoColor=white">
   <img alt="Notarized by Apple" src="https://img.shields.io/badge/Notarized-Apple-1d1d1f?style=flat-square">
   <img alt="Free with an optional Pro tier" src="https://img.shields.io/badge/Price-Free%20%2B%20Pro-0080ff?style=flat-square">
+  <img alt="Proprietary — all rights reserved" src="https://img.shields.io/badge/License-Proprietary-6e7781?style=flat-square">
 </p>
 
 <p>
@@ -306,6 +307,19 @@ files with their real on-disk sizes, so you can find and free up space.
 - [MacBook overheating? 9 ways to fix it](https://macooler.com/guides/macbook-overheating-fix.html) — step-by-step fixes for a Mac that runs hot and slow
 - [The best SMC Fan Control alternative](https://macooler.com/guides/smc-fan-control-alternative.html) — a modern, Apple-Silicon-native replacement for smcFanControl
 - [All guides](https://macooler.com/guides/)
+
+---
+
+## Licence
+
+Copyright © 2025 Macooler. All rights reserved.
+
+The marketing copy, product screenshots and brand artwork in this repository are
+proprietary and published here for reference only — see [LICENSE](LICENSE). The
+Macooler application is licensed separately under its own
+[terms of service](https://macooler.com/terms.html).
+
+Permission requests: [info@macooler.com](mailto:info@macooler.com)
 
 ---
 
